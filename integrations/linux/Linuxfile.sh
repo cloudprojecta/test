@@ -83,4 +83,4 @@ sudo ln -s /usr/local/share/chromedriver /usr/bin/chromedriver
 sudo apt-get -f install -y --force-yes
 
 # Get pip
-sudo easy_install pip
+# sudo easy_install pip
